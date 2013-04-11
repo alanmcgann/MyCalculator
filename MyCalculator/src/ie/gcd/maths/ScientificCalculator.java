@@ -8,7 +8,7 @@ public class ScientificCalculator {
 	
 	// method to add
 	public int add(int x, int y){
-		return x-y;
+		return x+y;
 	}
 
 	/**
